@@ -3,4 +3,4 @@
 2. Extract the folder
 3. Insert sql file into your PHP Myadmin database
 4. Run localhost/folder-name
-5. Enjoy !!
+5. Enjoy !!!
